@@ -46,8 +46,3 @@ A página foi organizada com as seções solicitadas no enunciado:
   - LinkedIn
   - GitHub
   - Portfólio (quando aplicável)
-
-## Como executar
-1. Faça o download/clonagem do repositório:
-   ```bash
-   git clone https://github.com/R0DRIG0132/curriculo.git
