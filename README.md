@@ -1,6 +1,6 @@
 # Currículo Web Responsivo
 
-Rodrigo José Morais Amaral | 81 9 99439-1338 | rodrigojmoraisamaral@gmail.com
+Rodrigo José Morais Amaral | 81 9 9439-1338 | rodrigojmoraisamaral@gmail.com
 
 ## Links (GitHub)
 - **Repositório:** https://github.com/R0DRIG0132/curriculo
