@@ -1,6 +1,11 @@
 # Currículo Web Responsivo
 
-Repositório criado para a entrega do **2º Exercício de Coding - Equipe (VERTICALIZA - 2026.1)**.
+## Links (GitHub)
+- **Repositório:** https://github.com/R0DRIG0132/curriculo
+- **GitHub Pages:** https://r0drig0132.github.io/curriculo/
+- **Perfil:** https://github.com/R0DRIG0132
+
+# Repositório criado para a entrega do **2º Exercício de Coding - Equipe (VERTICALIZA - 2026.1)**.
 
 ## Dados da atividade
 **Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
@@ -46,3 +51,8 @@ A página foi organizada com as seções solicitadas no enunciado:
   - LinkedIn
   - GitHub
   - Portfólio (quando aplicável)
+
+## Como executar
+1. Faça o download/clonagem do repositório:
+   ```bash
+   git clone https://github.com/R0DRIG0132/curriculo.git
