@@ -3,10 +3,10 @@
 Repositório criado para a entrega do **2º Exercício de Coding - Equipe (VERTICALIZA - 2026.1)**.
 
 ## Dados da atividade
-- **Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
-- **Disciplina:** Coding: Algoritmos e Estrutura de Dados  
-- **Professor:** Danilo Farias  
-- **Atividade:** Currículo Pessoal em HTML, CSS e Framework de Estilo  
+**Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
+**Disciplina:** Coding: Algoritmos e Estrutura de Dados  
+**Professor:** Danilo Farias  
+**Atividade:** Currículo Pessoal em HTML, CSS e Framework de Estilo  
 
 ## Objetivo
 Desenvolver uma página web representando um currículo pessoal, aplicando os conhecimentos introdutórios de:
